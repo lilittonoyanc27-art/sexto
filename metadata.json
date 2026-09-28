@@ -1,0 +1,6 @@
+{
+  "name": "La Atmósfera - Unit 2 Spanish-Armenian Study",
+  "description": "Interactive Spanish to Armenian study application for Unit 2: The Atmosphere (La Atmósfera / Մթնոլորտը) with click-to-reveal translations and pronunciation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
